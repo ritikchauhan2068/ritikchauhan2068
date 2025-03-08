@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @ritikchauhan2068<br>👯 I’m looking to collaborate on Machine Learning<br>👀 I’m interested in AI model<br>🌱 I’m currently learning machine learning and python.<br>💞️ I’m looking to collaborate on machine learning beginner level projects
+👋 Hi, I’m @ritikchauhan2068<br>👯 I’m looking to collaborate on Machine Learning project<br>👀 I’m interested in A.I.<br>🌱 I’m currently learning Deep learning and python.<br>
 
 
 ## 🌐 Socials:
