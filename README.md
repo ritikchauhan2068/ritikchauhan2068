@@ -2,11 +2,16 @@
 
 # Ritik Chauhan
 
-### AI & Machine Learning Engineer • Backend Engineer • Automation Builder
+### AI/ML Engineer • FastAPI Backend Developer • Automation Systems Engineer
 
-Building Production-Ready AI Systems That Solve Real Business Problems
+Building production-ready AI systems, backend services, and intelligent automation workflows that solve real business problems.
 
-<p>
+<p align="center">
+
+<a href="https://github.com/ritikchauhan2068">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 <a href="https://www.linkedin.com/in/ritik-chauhan-06b279211/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -31,89 +36,85 @@ Building Production-Ready AI Systems That Solve Real Business Problems
 
 # About Me
 
-I build intelligent systems that automate business operations and transform raw data into production-ready applications.
+I design and deploy intelligent systems that combine **AI, backend engineering, OCR, automation, and cloud infrastructure** to streamline real-world business operations.
 
-My work combines:
-
-- Artificial Intelligence
-- Machine Learning
-- Backend Engineering
+My experience spans:
+- AI & Machine Learning
+- Backend Engineering with FastAPI
 - OCR & Document Intelligence
 - Workflow Automation
-- Cloud Infrastructure
+- REST API Development
+- Cloud Deployment & DevOps
 
-I enjoy taking projects from idea → architecture → deployment → business impact.
+I enjoy building systems end-to-end — from architecture and model pipelines to deployment and production optimization.
 
 ---
 
-# Featured Work
+# Featured Projects
 
 ## OCR-Powered Order Automation System
 
-AI-powered pipeline that extracts structured order data from:
+AI-driven automation pipeline that extracts structured order data from WhatsApp images, invoices, receipts, and PDFs using OCR and backend automation.
 
-- WhatsApp Images
-- Receipts
-- Invoices
-- PDF Documents
+### Highlights
+- Achieved 95%+ extraction accuracy
+- Automated Google Sheets order processing
+- Reduced manual entry by 2+ hours daily
 
 ### Stack
+`Python` `FastAPI` `OCR` `LangChain` `Google Sheets API` `Docker`
 
-Python • FastAPI • LangChain • OCR • Google Sheets API • Docker
-
-### Impact
-
-Reduced manual order processing by more than 2 hours daily through end-to-end automation.
+🔗 Repository:  
+https://github.com/ritikchauhan2068
 
 ---
 
 ## Property Recommendation Engine
 
-Machine Learning recommendation platform trained on 10,000+ real-estate listings.
+Machine learning recommendation system trained on 10,000+ real-estate listings with intelligent ranking and similarity-based recommendations.
 
-### Features
-
-- Intelligent recommendations
-- Similarity ranking
-- Feature engineering
-- FastAPI deployment
-- REST APIs
+### Highlights
+- Feature engineering & similarity modeling
+- REST API deployment with FastAPI
+- Optimized ranking accuracy over baseline search
 
 ### Stack
+`Python` `Scikit-Learn` `FastAPI` `Docker`
 
-Python • Scikit-Learn • FastAPI • Docker
+🔗 Repository:  
+https://github.com/ritikchauhan2068
 
 ---
 
-## Heritage Almora
+## Heritage Almora — Production Business Platform
 
-Production hotel website built for a real business.
+Production-grade hospitality platform developed for a real hotel business with cloud deployment, SEO optimization, and backend infrastructure management.
 
 ### Delivered
-
 - Backend Development
-- Deployment
+- Deployment & Hosting
 - SEO Optimization
-- Cloud Hosting
+- Cloud Infrastructure
 - Google Business Optimization
 
-🌐 https://www.heritagealmora.com
+🌐 Website:  
+https://www.heritagealmora.com
 
 ---
 
-## Auyrco Pharma
+## Auyrco Pharma — Business Automation Platform
 
-Business platform developed for an Ayurvedic pharmaceutical company.
+Scalable business platform for an Ayurvedic pharmaceutical company with backend APIs, automation workflows, and performance optimization.
 
 ### Delivered
-
 - Backend APIs
 - Performance Optimization
-- Deployment
+- Deployment Automation
 - SEO Implementation
-- Business Automation
+- Business Workflow Automation
 
-🌐 https://auyrcopharma-5.onrender.com
+🌐 Website:  
+https://auyrcopharma-5.onrender.com
 
 ---
 
@@ -121,29 +122,63 @@ Business platform developed for an Ayurvedic pharmaceutical company.
 
 ## AI & Machine Learning
 
-Python • TensorFlow • PyTorch • Scikit-Learn • NLP • OCR • LangChain
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
+
+</p>
+
+`Scikit-Learn` • `NLP` • `OCR` • `LangChain` • `Deep Learning`
+
+---
 
 ## Backend Engineering
 
-FastAPI • Flask • REST APIs • PostgreSQL • MySQL
+<p>
 
-## Automation
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,postgres,mysql"/>
 
-n8n • Google Sheets API • Selenium • BeautifulSoup
+</p>
+
+`REST APIs` • `Backend Architecture` • `API Optimization`
+
+---
+
+## Automation & Data Engineering
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=selenium"/>
+
+</p>
+
+`n8n` • `Google Sheets API` • `BeautifulSoup` • `Workflow Automation`
+
+---
 
 ## DevOps & Cloud
 
-Docker • GitHub Actions • DigitalOcean • Render • Linux
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker,github,linux"/>
+
+</p>
+
+`DigitalOcean` • `Render` • `CI/CD` • `Cloud Deployment`
 
 ---
 
 # GitHub Analytics
 
-![](https://github-readme-stats.vercel.app/api?username=ritikchauhan2068&theme=tokyonight&show_icons=true&hide_border=true)
+<p align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=ritikchauhan2068&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=ritikchauhan2068&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikchauhan2068&theme=tokyonight&layout=compact&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ritikchauhan2068&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikchauhan2068&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
@@ -151,23 +186,72 @@ Docker • GitHub Actions • DigitalOcean • Render • Linux
 
 - AI Automation Systems
 - OCR & Document Intelligence
-- LLM Applications
 - FastAPI Backend Architecture
-- Production MLOps Workflows
-- Scalable Business Automation
+- LLM Applications & AI Agents
+- Scalable Workflow Automation
+- Production MLOps & Deployment
 
 ---
 
-# Let's Connect
+# Repository Structure Example
 
-LinkedIn:
+```bash
+project/
+│
+├── app/
+├── api/
+├── models/
+├── services/
+├── automation/
+├── docker/
+├── requirements.txt
+├── Dockerfile
+└── README.md
+```
+
+---
+
+# Sample Project Badges
+
+```markdown
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+```
+
+---
+
+# Connect With Me
+
+### GitHub
+https://github.com/ritikchauhan2068
+
+### LinkedIn
 https://www.linkedin.com/in/ritik-chauhan-06b279211/
 
-Portfolio:
+### Portfolio
 https://voluble-panda-3a9ee0.netlify.app/
 
-Email:
+### Kaggle
+https://www.kaggle.com/ritikchauhan2068
+
+### Email
 ritikchauhan2068@gmail.com
 
-Kaggle:
-https://www.kaggle.com/ritikchauhan2068
+---
+
+# Explore My Repositories
+
+If you're interested in:
+- AI Automation
+- OCR Systems
+- FastAPI Backends
+- Machine Learning Applications
+- Workflow Automation
+- Production Deployment
+
+Explore my repositories and feel free to connect or collaborate.
+
+⭐ Always open to building impactful AI systems and solving real-world engineering challenges.
