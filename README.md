@@ -65,7 +65,7 @@ AI-driven automation pipeline that extracts structured order data from WhatsApp 
 `Python` `FastAPI` `OCR` `LangChain` `Google Sheets API` `Docker`
 
 🔗 Repository:  
-https://github.com/ritikchauhan2068
+[https://github.com/ritikchauhan2068](https://github.com/ritikchauhan2068/OCR-For-Business)
 
 ---
 
