@@ -1,220 +1,173 @@
 <div align="center">
 
-# Hi 👋, I'm Ritik Chauhan
+# Ritik Chauhan
 
-### AI & Machine Learning Engineer | Data Scientist | Backend Engineer
+### AI & Machine Learning Engineer • Backend Engineer • Automation Builder
 
-🚀 Building Production-Ready AI Solutions, Backend Systems & Business Automation
+Building Production-Ready AI Systems That Solve Real Business Problems
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ritik-chauhan-06b279211/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  
-  <a href="mailto:ritikchauhan2068@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<p>
+<a href="https://www.linkedin.com/in/ritik-chauhan-06b279211/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-  <a href="https://www.kaggle.com/ritikchauhan2068">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-  </a>
+<a href="mailto:ritikchauhan2068@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-  <a href="https://voluble-panda-3a9ee0.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
+<a href="https://www.kaggle.com/ritikchauhan2068">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
+<a href="https://voluble-panda-3a9ee0.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 </p>
 
 </div>
 
 ---
 
-# 💫 About Me
+# About Me
 
-I am an **AI & Machine Learning Engineer** passionate about building intelligent systems that solve real-world business problems.
+I build intelligent systems that automate business operations and transform raw data into production-ready applications.
 
-My work combines **Machine Learning, Backend Engineering, OCR, NLP, Workflow Automation, and Cloud Deployment** to create scalable production-ready applications.
+My work combines:
 
-### What I Build
+- Artificial Intelligence
+- Machine Learning
+- Backend Engineering
+- OCR & Document Intelligence
+- Workflow Automation
+- Cloud Infrastructure
 
-✅ AI-powered automation systems
-
-✅ OCR & document-processing pipelines
-
-✅ FastAPI backend services & REST APIs
-
-✅ Machine Learning applications
-
-✅ Recommendation systems
-
-✅ Business workflow automation using n8n
-
-✅ Production cloud deployments
+I enjoy taking projects from idea → architecture → deployment → business impact.
 
 ---
 
-# 🚀 Featured Projects
+# Featured Work
 
-## 🔹 AI-Powered OCR Order Automation System
+## OCR-Powered Order Automation System
 
-Production-grade OCR automation pipeline that extracts structured data from:
+AI-powered pipeline that extracts structured order data from:
 
-- Images
-- Invoices
+- WhatsApp Images
 - Receipts
+- Invoices
 - PDF Documents
 
-### Features
+### Stack
 
-✔ OCR Extraction
-
-✔ LLM Validation
-
-✔ FastAPI Backend
-
-✔ Google Sheets Integration
-
-✔ Automated Workflows
-
-✔ Structured API Output
-
-### Tech Stack
-
-Python • FastAPI • LangChain • OCR • Docker • Google Sheets API
+Python • FastAPI • LangChain • OCR • Google Sheets API • Docker
 
 ### Impact
 
-Reduced manual order processing effort by **2+ hours daily** through end-to-end automation.
+Reduced manual order processing by more than 2 hours daily through end-to-end automation.
 
 ---
 
-## 🔹 Property Recommendation Engine
+## Property Recommendation Engine
 
-Machine Learning recommendation system built using 10,000+ real-estate listings.
+Machine Learning recommendation platform trained on 10,000+ real-estate listings.
 
 ### Features
 
-✔ Personalized recommendations
+- Intelligent recommendations
+- Similarity ranking
+- Feature engineering
+- FastAPI deployment
+- REST APIs
 
-✔ Similarity-based ranking
-
-✔ Feature engineering
-
-✔ FastAPI API deployment
-
-✔ Real-time recommendations
-
-### Tech Stack
+### Stack
 
 Python • Scikit-Learn • FastAPI • Docker
 
 ---
 
-## 🔹 Heritage Almora
+## Heritage Almora
 
-Production hotel booking platform built for a real business.
+Production hotel website built for a real business.
 
-🌐 Website:
+### Delivered
 
-https://www.heritagealmora.com
-
-### Contributions
-
-- Backend development
+- Backend Development
 - Deployment
-- SEO optimization
-- Cloud hosting
-- Google Business Profile optimization
+- SEO Optimization
+- Cloud Hosting
+- Google Business Optimization
+
+🌐 https://www.heritagealmora.com
 
 ---
 
-## 🔹 Auyrco Pharma
+## Auyrco Pharma
 
 Business platform developed for an Ayurvedic pharmaceutical company.
 
-🌐 Demo:
-
-https://auyrcopharma-5.onrender.com
-
-### Contributions
+### Delivered
 
 - Backend APIs
+- Performance Optimization
 - Deployment
-- Performance optimization
-- SEO implementation
-- Business automation support
+- SEO Implementation
+- Business Automation
+
+🌐 https://auyrcopharma-5.onrender.com
 
 ---
 
-# 💻 Tech Stack
+# Technology Stack
 
-### AI / Machine Learning
+## AI & Machine Learning
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge)
-![OCR](https://img.shields.io/badge/OCR-4CAF50?style=for-the-badge)
+Python • TensorFlow • PyTorch • Scikit-Learn • NLP • OCR • LangChain
 
----
+## Backend Engineering
 
-### Backend Development
+FastAPI • Flask • REST APIs • PostgreSQL • MySQL
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-0A66C2?style=for-the-badge)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+## Automation
+
+n8n • Google Sheets API • Selenium • BeautifulSoup
+
+## DevOps & Cloud
+
+Docker • GitHub Actions • DigitalOcean • Render • Linux
 
 ---
 
-### Automation & DevOps
+# GitHub Analytics
 
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![](https://github-readme-stats.vercel.app/api?username=ritikchauhan2068&theme=tokyonight&show_icons=true&hide_border=true)
 
----
+![](https://github-readme-streak-stats.herokuapp.com/?user=ritikchauhan2068&theme=tokyonight&hide_border=true)
 
-### Cloud & Deployment
-
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikchauhan2068&theme=tokyonight&layout=compact&hide_border=true)
 
 ---
 
-# 🧠 LeetCode Stats
+# Current Focus
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/ritikchauhan2068?theme=dark&font=Karma&ext=heatmap&border=true)](https://leetcode.com/ritikchauhan2068)
-
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=ritikchauhan2068&theme=tokyonight&hide_border=true&include_all_commits=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=ritikchauhan2068&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikchauhan2068&theme=tokyonight&hide_border=true&layout=compact)
+- AI Automation Systems
+- OCR & Document Intelligence
+- LLM Applications
+- FastAPI Backend Architecture
+- Production MLOps Workflows
+- Scalable Business Automation
 
 ---
 
-# 🤝 Let's Connect
+# Let's Connect
 
-📧 Email: ritikchauhan2068@gmail.com
-
-💼 LinkedIn:
+LinkedIn:
 https://www.linkedin.com/in/ritik-chauhan-06b279211/
 
-🌐 Portfolio:
+Portfolio:
 https://voluble-panda-3a9ee0.netlify.app/
 
-📊 Kaggle:
+Email:
+ritikchauhan2068@gmail.com
+
+Kaggle:
 https://www.kaggle.com/ritikchauhan2068
-
----
-
-⭐ Always interested in collaborating on AI, Machine Learning, Backend Engineering, OCR, Automation, and Open Source Projects.
