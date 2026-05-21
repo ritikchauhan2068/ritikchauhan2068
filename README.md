@@ -79,10 +79,10 @@ Machine learning recommendation system trained on 10,000+ real-estate listings w
 - Optimized ranking accuracy over baseline search
 
 ### Stack
-`Python` `Scikit-Learn` `FastAPI` `Docker`
+`Python` `Scikit-Learn` `Streamlite` `Machine Learning` `NLP` `WebScraping`
 
 🔗 Repository:  
-https://github.com/ritikchauhan2068
+[https://github.com/ritikchauhan2068](https://github.com/ritikchauhan2068/Flat-recommdation-system)
 
 ---
 
