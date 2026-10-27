@@ -2,7 +2,7 @@
 
 # Ritik Chauhan
 
-### AI/ML Engineer • FastAPI Backend Developer • Automation Systems Engineer
+### AI/ML Engineer • FastAPI  • Automation Systems Engineer
 
 Building production-ready AI systems, backend services, and intelligent automation workflows that solve real business problems.
 
