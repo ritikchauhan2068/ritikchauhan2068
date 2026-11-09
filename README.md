@@ -1,14 +1,20 @@
 <!--
   GitHub profile README. Save it as README.md in a PUBLIC repo named exactly like your username:
   github.com/ritikchauhan2068/ritikchauhan2068
+
+  Files that go with it (same repo):
+    assets/header.svg                 animated banner (self-hosted, no third-party service)
+    assets/streak.svg                 built by .github/workflows/streak.yml (your existing workflow)
+    .github/workflows/snake.yml       builds the contribution snake onto the "output" branch
+
   Search for "REPLACE" before publishing: those links need your real repo URLs.
 -->
 
 <div align="center">
 
-# Hi, I'm Ritik Chauhan 👋
+<img src="./assets/header.svg" alt="Ritik Chauhan, AI/ML and Backend Engineer. FastAPI, RAG, OCR automation." width="100%" />
 
-### AI/ML & Backend Engineer · FastAPI · RAG · OCR Automation
+<br>
 
 *I build production AI systems and automation workflows that save small businesses hours of manual work every day.*
 
@@ -26,6 +32,24 @@
 
 ---
 
+## 📊 Impact at a glance
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="20%"><h2>2</h2>live client<br>deployments</td>
+    <td align="center" width="20%"><h2>90%+</h2>OCR field<br>extraction accuracy</td>
+    <td align="center" width="20%"><h2>2+ hrs</h2>manual entry saved<br>every day</td>
+    <td align="center" width="20%"><h2>10,000+</h2>real-estate listings<br>in the recommender</td>
+    <td align="center" width="20%"><h2>18%</h2>relevance lift over<br>keyword baseline</td>
+  </tr>
+</table>
+
+</div>
+
+---
+
 ## 🧭 What I do
 
 | | |
@@ -34,7 +58,7 @@
 | 📄 **OCR & document intelligence** | Turning WhatsApp images, invoices, and PDFs into validated, structured data |
 | ⚙️ **Backend & automation** | FastAPI services, Google Sheets / n8n workflows, and Docker deployments on DigitalOcean and Render |
 
-Since early 2025 I've been shipping backends for real clients. **2 live production deployments.**
+Since early 2025 I've been shipping backends for real clients.
 
 ---
 
@@ -47,10 +71,11 @@ Extracts structured order data from WhatsApp images, invoices, receipts, and PDF
 - Low-confidence records go to a review queue instead of the spreadsheet
 
 `Python` `FastAPI` `Tesseract OCR` `LangChain` `Google Sheets API` `Docker`
+
 🔗 [Repository](https://github.com/ritikchauhan2068/OCR-For-Business)
 
 <details>
-<summary><b>How it works</b></summary>
+<summary><b>🔍 How it works</b></summary>
 
 ```mermaid
 flowchart LR
@@ -73,7 +98,24 @@ Ask questions about multi-page PDFs and get answers with **page-level citations*
 - Built for transparency: every answer points back to its source page
 
 `Python` `FastAPI` `LangChain` `FAISS` `Google Gemini`
+
 🔗 [Repository](https://github.com/ritikchauhan2068/REPLACE-WITH-DOCUMIND-REPO)
+
+<details>
+<summary><b>🔍 How it works</b></summary>
+
+```mermaid
+flowchart LR
+    A[PDF upload] --> B[Split into page-tagged chunks]
+    B --> C[(FAISS index + UUID metadata)]
+    D[User question] --> E[Filter by document UUID]
+    C --> E
+    E --> F[Top-k similarity search]
+    F --> G[Gemini answers with context]
+    G --> H[Answer + page citations]
+```
+
+</details>
 
 ---
 
@@ -84,6 +126,7 @@ Content-based recommender over **10,000+ scraped real-estate listings**, using e
 - Served through a low-latency API
 
 `Python` `Scikit-learn` `BeautifulSoup` `NLP` `FastAPI`
+
 🔗 [Repository](https://github.com/ritikchauhan2068/Flat-recommdation-system)
 
 ---
@@ -99,7 +142,7 @@ Content-based recommender over **10,000+ scraped real-estate listings**, using e
 
 ## 🛠️ Tech stack
 
-**AI / ML**
+**AI / ML**<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
@@ -107,17 +150,17 @@ Content-based recommender over **10,000+ scraped real-estate listings**, using e
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![Tesseract OCR](https://img.shields.io/badge/Tesseract%20OCR-3C3C3C?style=flat-square)
 
-**Backend**
+**Backend**<br>
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![REST](https://img.shields.io/badge/REST%20APIs-111111?style=flat-square)
 
-**Automation**
+**Automation**<br>
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets%20API-34A853?style=flat-square&logo=googlesheets&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3C3C3C?style=flat-square)
 
-**DevOps & cloud**
+**DevOps & cloud**<br>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
@@ -128,9 +171,34 @@ Content-based recommender over **10,000+ scraped real-estate listings**, using e
 ## 📈 GitHub activity
 
 <div align="center">
-<!-- Generated by .github/workflows/streak.yml into assets/streak.svg (no third-party image service) -->
+
+<!-- Snake: built daily by .github/workflows/snake.yml and served from the "output" branch -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ritikchauhan2068/ritikchauhan2068/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ritikchauhan2068/ritikchauhan2068/output/github-snake.svg" />
+  <img alt="Snake eating my GitHub contribution graph, one square per day I pushed code" src="https://raw.githubusercontent.com/ritikchauhan2068/ritikchauhan2068/output/github-snake.svg" />
+</picture>
+
+<br>
+
+<!-- Streak: generated by .github/workflows/streak.yml into assets/streak.svg (no third-party image service) -->
 <img alt="GitHub contribution streak" src="./assets/streak.svg" />
+
 </div>
+
+*Every square is a real day of work: the snake rebuilds itself every 24 hours.*
+
+---
+
+## 🤝 Work with me
+
+Running a small business and drowning in manual data entry? I can help with:
+
+- 📲 **Order and invoice capture**: WhatsApp images and PDFs straight into Google Sheets
+- 💬 **Chat with your documents**: a RAG assistant that answers with citations
+- 🔌 **Backends and integrations**: FastAPI, Google APIs, n8n workflows, Dockerised deployments
+
+📧 [ritikchauhan2068@gmail.com](mailto:ritikchauhan2068@gmail.com) · 🌐 [Portfolio](https://voluble-panda-3a9ee0.netlify.app/)
 
 ---
 
