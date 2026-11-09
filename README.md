@@ -125,6 +125,19 @@ Content-based recommender over **10,000+ scraped real-estate listings**, using e
 
 ---
 
+## 📈 GitHub activity
+
+<div align="center">
+<a href="https://github.com/ritikchauhan2068">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ritikchauhan2068&theme=dark&hide_border=true" />
+<img alt="GitHub contribution streak" src="https://streak-stats.demolab.com?user=ritikchauhan2068&theme=default&hide_border=true" />
+</picture>
+</a>
+</div>
+
+---
+
 ## 🎯 Currently
 
 - 🔭 Building LLM applications and AI agents on top of my RAG and OCR work
