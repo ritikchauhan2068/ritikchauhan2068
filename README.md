@@ -1,257 +1,147 @@
+<!--
+  GitHub profile README. Save it as README.md in a PUBLIC repo named exactly like your username:
+  github.com/ritikchauhan2068/ritikchauhan2068
+  Search for "REPLACE" before publishing: those links need your real repo URLs.
+-->
+
 <div align="center">
 
-# Ritik Chauhan
+# Hi, I'm Ritik Chauhan 👋
 
-### AI/ML Engineer • FastAPI  • Automation Systems Engineer
+### AI/ML & Backend Engineer · FastAPI · RAG · OCR Automation
 
-Building production-ready AI systems, backend services, and intelligent automation workflows that solve real business problems.
+*I build production AI systems and automation workflows that save small businesses hours of manual work every day.*
 
-<p align="center">
+<br>
 
-<a href="https://github.com/ritikchauhan2068">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+![Open to work](https://img.shields.io/badge/OPEN%20TO%20WORK-AI%2FML%20%C2%B7%20Python%20Backend%20%C2%B7%20Automation-2ea44f?style=for-the-badge)
+![Location](https://img.shields.io/badge/India-Remote%20friendly-0A66C2?style=for-the-badge)
 
-<a href="https://www.linkedin.com/in/ritik-chauhan-06b279211/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:ritikchauhan2068@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.kaggle.com/ritikchauhan2068">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
-
-<a href="https://voluble-panda-3a9ee0.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritik-chauhan-06b279211/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=netlify&logoColor=00C7B7)](https://voluble-panda-3a9ee0.netlify.app/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ritikchauhan2068)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ritikchauhan2068@gmail.com)
 
 </div>
 
 ---
 
-# About Me
+## 🧭 What I do
 
-I design and deploy intelligent systems that combine **AI, backend engineering, OCR, automation, and cloud infrastructure** to streamline real-world business operations.
+| | |
+|---|---|
+| 🤖 **LLM & RAG applications** | Document-grounded assistants with source citations, built on LangChain, FAISS, and Gemini |
+| 📄 **OCR & document intelligence** | Turning WhatsApp images, invoices, and PDFs into validated, structured data |
+| ⚙️ **Backend & automation** | FastAPI services, Google Sheets / n8n workflows, and Docker deployments on DigitalOcean and Render |
 
-My experience spans:
-- AI & Machine Learning
-- Backend Engineering with FastAPI
-- OCR & Document Intelligence
-- Workflow Automation
-- REST API Development
-- Cloud Deployment & DevOps
-
-I enjoy building systems end-to-end — from architecture and model pipelines to deployment and production optimization.
+Since early 2025 I've been shipping backends for real clients. **2 live production deployments.**
 
 ---
 
-# Featured Projects
+## 🚀 Featured projects
 
-## OCR-Powered Order Automation System
+### 📦 OCR-Powered Order Automation
+Extracts structured order data from WhatsApp images, invoices, receipts, and PDFs, validates it against a schema, and syncs it to Google Sheets.
 
-AI-driven automation pipeline that extracts structured order data from WhatsApp images, invoices, receipts, and PDFs using OCR and backend automation.
+- ✅ **90%+** field extraction accuracy &nbsp;·&nbsp; ⏱️ saves **2+ hours** of manual entry every day
+- Low-confidence records go to a review queue instead of the spreadsheet
 
-### Highlights
-- Achieved 95%+ extraction accuracy
-- Automated Google Sheets order processing
-- Reduced manual entry by 2+ hours daily
+`Python` `FastAPI` `Tesseract OCR` `LangChain` `Google Sheets API` `Docker`
+🔗 [Repository](https://github.com/ritikchauhan2068/OCR-For-Business)
 
-### Stack
-`Python` `FastAPI` `OCR` `LangChain` `Google Sheets API` `Docker`
+<details>
+<summary><b>How it works</b></summary>
 
-🔗 Repository:  
-[https://github.com/ritikchauhan2068](https://github.com/ritikchauhan2068/OCR-For-Business)
-
----
-
-## Property Recommendation Engine
-
-Machine learning recommendation system trained on 10,000+ real-estate listings with intelligent ranking and similarity-based recommendations.
-
-### Highlights
-- Feature engineering & similarity modeling
-- REST API deployment with FastAPI
-- Optimized ranking accuracy over baseline search
-
-### Stack
-`Python` `Scikit-Learn` `Streamlite` `Machine Learning` `NLP` `WebScraping`
-
-🔗 Repository:  
-[https://github.com/ritikchauhan2068](https://github.com/ritikchauhan2068/Flat-recommdation-system)
-
----
-
-## Heritage Almora — Production Business Platform
-
-Production-grade hospitality platform developed for a real hotel business with cloud deployment, SEO optimization, and backend infrastructure management.
-
-### Delivered
-- Backend Development
-- Deployment & Hosting
-- SEO Optimization
-- Cloud Infrastructure
-- Google Business Optimization
-
-🌐 Website:  
-https://www.heritagealmora.com
-
----
-
-## Auyrco Pharma — Business Automation Platform
-
-Scalable business platform for an Ayurvedic pharmaceutical company with backend APIs, automation workflows, and performance optimization.
-
-### Delivered
-- Backend APIs
-- Performance Optimization
-- Deployment Automation
-- SEO Implementation
-- Business Workflow Automation
-
-🌐 Website:  
-https://auyrcopharma-5.onrender.com
-
----
-
-# Technology Stack
-
-## AI & Machine Learning
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
-
-</p>
-
-`Scikit-Learn` • `NLP` • `OCR` • `LangChain` • `Deep Learning`
-
----
-
-## Backend Engineering
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,postgres,mysql"/>
-
-</p>
-
-`REST APIs` • `Backend Architecture` • `API Optimization`
-
----
-
-## Automation & Data Engineering
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=selenium"/>
-
-</p>
-
-`n8n` • `Google Sheets API` • `BeautifulSoup` • `Workflow Automation`
-
----
-
-## DevOps & Cloud
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=docker,github,linux"/>
-
-</p>
-
-`DigitalOcean` • `Render` • `CI/CD` • `Cloud Deployment`
-
----
-
-# GitHub Analytics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ritikchauhan2068&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ritikchauhan2068&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikchauhan2068&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# Current Focus
-
-- AI Automation Systems
-- OCR & Document Intelligence
-- FastAPI Backend Architecture
-- LLM Applications & AI Agents
-- Scalable Workflow Automation
-- Production MLOps & Deployment
-
----
-
-# Repository Structure Example
-
-```bash
-project/
-│
-├── app/
-├── api/
-├── models/
-├── services/
-├── automation/
-├── docker/
-├── requirements.txt
-├── Dockerfile
-└── README.md
+```mermaid
+flowchart LR
+    A[WhatsApp image / PDF / invoice] --> B[Preprocess + OCR]
+    B --> C[Field extraction]
+    C --> D{Schema valid and confident?}
+    D -- yes --> E[Google Sheets sync]
+    D -- no --> F[Manual review queue]
+    F --> E
 ```
 
----
-
-# Sample Project Badges
-
-```markdown
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-```
+</details>
 
 ---
 
-# Connect With Me
+### 📚 DocuMind: Document-Grounded RAG Assistant
+Ask questions about multi-page PDFs and get answers with **page-level citations**. Document isolation through UUID metadata filtering stops answers from leaking across files.
 
-### GitHub
-https://github.com/ritikchauhan2068
+- FAISS similarity search with multi-turn conversational context
+- Built for transparency: every answer points back to its source page
 
-### LinkedIn
-https://www.linkedin.com/in/ritik-chauhan-06b279211/
-
-### Portfolio
-https://voluble-panda-3a9ee0.netlify.app/
-
-### Kaggle
-https://www.kaggle.com/ritikchauhan2068
-
-### Email
-ritikchauhan2068@gmail.com
+`Python` `FastAPI` `LangChain` `FAISS` `Google Gemini`
+🔗 [Repository](https://github.com/ritikchauhan2068/REPLACE-WITH-DOCUMIND-REPO)
 
 ---
 
-# Explore My Repositories
+### 🏠 Property Recommendation Engine
+Content-based recommender over **10,000+ scraped real-estate listings**, using engineered features (price per sq ft, locality tiers, amenity scores) and TF-IDF with cosine similarity.
 
-If you're interested in:
-- AI Automation
-- OCR Systems
-- FastAPI Backends
-- Machine Learning Applications
-- Workflow Automation
-- Production Deployment
+- 📈 **18%** relevance lift over a keyword-search baseline
+- Served through a low-latency API
 
-Explore my repositories and feel free to connect or collaborate.
+`Python` `Scikit-learn` `BeautifulSoup` `NLP` `FastAPI`
+🔗 [Repository](https://github.com/ritikchauhan2068/Flat-recommdation-system)
 
-⭐ Always open to building impactful AI systems and solving real-world engineering challenges.
+---
+
+### 🌐 Client work in production
+
+| Client | What I delivered | Live |
+|---|---|---|
+| **Heritage Almora** (hospitality) | Backend, cloud deployment, SEO, Google Business optimisation | [heritagealmora.com](https://www.heritagealmora.com) |
+| **Auyrco Pharma** (Ayurvedic pharma) | Backend APIs, performance tuning, deployment automation, business workflow automation | [Live site](https://auyrcopharma-5.onrender.com) |
+
+---
+
+## 🛠️ Tech stack
+
+**AI / ML**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Tesseract OCR](https://img.shields.io/badge/Tesseract%20OCR-3C3C3C?style=flat-square)
+
+**Backend**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![REST](https://img.shields.io/badge/REST%20APIs-111111?style=flat-square)
+
+**Automation**
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets%20API-34A853?style=flat-square&logo=googlesheets&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3C3C3C?style=flat-square)
+
+**DevOps & cloud**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+
+---
+
+## 🎯 Currently
+
+- 🔭 Building LLM applications and AI agents on top of my RAG and OCR work
+- 🌱 Going deeper on retrieval evaluation, MLOps, and production deployment
+- 💬 Ask me about: FastAPI, RAG pipelines, OCR workflows, automating business operations
+
+## 🧑‍💼 Background
+
+- **Freelance Backend & Automation Engineer**, Jan 2025 to present
+- **Data Scientist Intern**, InternPe, Feb to Apr 2024: IPL match prediction, 5 classifiers compared and tuned with GridSearchCV
+- **B.Tech CSE**, Chaudhary Charan Singh University (2021-2025)
+- **Generative AI for Data-Driven Business Decision-Making**, IIM Mumbai (MIT × NSDC)
+
+---
+
+<div align="center">
+
+**Hiring for an AI/ML or backend role?** I'd love to talk: [ritikchauhan2068@gmail.com](mailto:ritikchauhan2068@gmail.com)
+
+</div>
