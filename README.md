@@ -40,7 +40,7 @@
   <tr>
     <td align="center" width="20%"><h2>2</h2>live client<br>deployments</td>
     <td align="center" width="20%"><h2>90%+</h2>OCR field<br>extraction accuracy</td>
-    <td align="center" width="20%"><h2>2+ hrs</h2>manual entry saved<br>every day</td>
+    <td align="center" width="20%"><h2>2+ hrs</h2>manual entry saved(Testing)<br>every day</td>
     <td align="center" width="20%"><h2>10,000+</h2>real-estate listings<br>in the recommender</td>
     <td align="center" width="20%"><h2>18%</h2>relevance lift over<br>keyword baseline</td>
   </tr>
