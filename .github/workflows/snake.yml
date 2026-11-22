@@ -1,17 +1,9 @@
 name: Generate contribution snake
 
 on:
-  # rebuild every day so the snake always reflects the latest pushes
   schedule:
     - cron: "0 0 * * *"
-  # run it by hand from the Actions tab
   workflow_dispatch:
-  # and whenever the README or this workflow changes
-  push:
-    branches:
-      - main
-    paths:
-      - ".github/workflows/snake.yml"
 
 permissions:
   contents: write
@@ -19,20 +11,17 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
     steps:
-      # reads your public contribution graph and builds light + dark SVGs
-      - name: Generate snake SVGs
-        uses: Platane/snk/svg-only@v3
+      - name: Generate contribution graph snake
+        uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: ritikchauhan2068
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # publishes the SVGs to a separate "output" branch so main stays clean
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Publish snake to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
