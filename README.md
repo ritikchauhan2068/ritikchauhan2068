@@ -1,224 +1,166 @@
-<!--
-  GitHub profile README. Save it as README.md in a PUBLIC repo named exactly like your username:
-  github.com/ritikchauhan2068/ritikchauhan2068
-
-  Files that go with it (same repo):
-    assets/header.svg                 animated banner (self-hosted, no third-party service)
-    assets/streak.svg                 built by .github/workflows/streak.yml (your existing workflow)
-    .github/workflows/snake.yml       builds the contribution snake onto the "output" branch
-
-  Search for "REPLACE" before publishing: those links need your real repo URLs.
--->
-
 <div align="center">
 
-<img src="./assets/header.svg" alt="Ritik Chauhan, AI/ML and Backend Engineer. FastAPI, RAG, OCR automation." width="100%" />
+<img src="assets/f1-neon-banner.png" alt="Neon green night racing car banner" width="100%" />
 
-<br>
+# `RITIK CHAUHAN`
 
-*I build production AI systems and automation workflows that save small businesses hours of manual work every day.*
+### AI/ML ENGINEER · DATA SCIENTIST
 
-<br>
+**Build intelligent systems that solve real-world problems.**
 
-![Open to work](https://img.shields.io/badge/OPEN%20TO%20WORK-AI%2FML%20%C2%B7%20Python%20Backend%20%C2%B7%20Automation-2ea44f?style=for-the-badge)
-![Location](https://img.shields.io/badge/India-Remote%20friendly-0A66C2?style=for-the-badge)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=700&lines=Turning+data+into+intelligence;Building+AI-powered+solutions;Exploring+LLMs%2C+MCP+%26+AI+agents;Learning+by+building+real-world+systems)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritik-chauhan-06b279211/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=netlify&logoColor=00C7B7)](https://voluble-panda-3a9ee0.netlify.app/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ritikchauhan2068)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ritikchauhan2068@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-ritikchauhan2068-111111?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/ritikchauhan2068)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=39FF14)](https://www.linkedin.com/in/ritik-chauhan-06b279211/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-111111?style=for-the-badge&logo=kaggle&logoColor=39FF14)](https://www.kaggle.com/ritikchauhan2068)
+
+![Profile views](https://komarev.com/ghpvc/?username=ritikchauhan2068&style=for-the-badge&color=39ff14&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## 📊 Impact at a glance
+## `whoami` — About Me
 
-<div align="center">
+I'm a **B.Tech Computer Science student** focused on **Artificial Intelligence, Machine Learning, and Data Science**. I enjoy turning messy data and real-world problems into practical software — from ML workflows and recommendation systems to OCR-powered automation and LLM applications.
 
-<table>
-  <tr>
-    <td align="center" width="20%"><h2>2</h2>live client<br>deployments</td>
-    <td align="center" width="20%"><h2>90%+</h2>OCR field<br>extraction accuracy</td>
-    <td align="center" width="20%"><h2>2+ hrs</h2>manual entry saved(Testing)<br>every day</td>
-    <td align="center" width="20%"><h2>10,000+</h2>real-estate listings<br>in the recommender</td>
-    <td align="center" width="20%"><h2>18%</h2>relevance lift over<br>keyword baseline</td>
-  </tr>
-</table>
+- Building end-to-end AI/ML projects and data-driven applications.
+- Interested in machine learning, deep learning, NLP, LLMs, and intelligent automation.
+- Exploring **Model Context Protocol (MCP)** and the evolving AI tools ecosystem.
+- I value clear problem-solving, experimentation, and learning by shipping projects.
 
-</div>
+> **Mission:** Build useful, reliable intelligent systems — not just demos.
+
+## `tech_stack` — Arsenal
+
+**Languages & Data**
+
+![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=39FF14)
+![Pandas](https://img.shields.io/badge/Pandas-111111?style=flat-square&logo=pandas&logoColor=39FF14)
+![NumPy](https://img.shields.io/badge/NumPy-111111?style=flat-square&logo=numpy&logoColor=39FF14)
+![SQL](https://img.shields.io/badge/SQL-111111?style=flat-square&logo=postgresql&logoColor=39FF14)
+
+**AI / Machine Learning**
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-111111?style=flat-square&logo=scikitlearn&logoColor=39FF14)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-111111?style=flat-square&labelColor=111111&color=39FF14)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-111111?style=flat-square&logo=pytorch&logoColor=39FF14)
+![NLP](https://img.shields.io/badge/NLP-111111?style=flat-square&logo=googletranslate&logoColor=39FF14)
+![LLMs](https://img.shields.io/badge/LLMs-111111?style=flat-square&logo=openai&logoColor=39FF14)
+![LangChain](https://img.shields.io/badge/LangChain-111111?style=flat-square&logo=chainlink&logoColor=39FF14)
+
+**Backend & AI Applications**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi&logoColor=39FF14)
+![REST APIs](https://img.shields.io/badge/REST_APIs-111111?style=flat-square&logo=fastapi&logoColor=39FF14)
+
+**Currently exploring**
+
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-111111?style=flat-square&logo=anthropic&logoColor=39FF14)
+![AI Agents](https://img.shields.io/badge/AI_Agents-111111?style=flat-square&logo=probot&logoColor=39FF14)
+![Generative AI](https://img.shields.io/badge/Generative_AI-111111?style=flat-square&logo=openai&logoColor=39FF14)
+
+## `featured_projects` — Selected Builds
+
+### 01. OCR for Business — Order Automation
+
+An OCR-powered workflow designed to turn incoming order messages, invoice PDFs, and images into structured order data and reduce repetitive manual entry.
+
+**Focus:** OCR · document extraction · LLM-based structuring · Google Sheets API
+
+[View repository](https://github.com/ritikchauhan2068/OCR-For-Business)
+
+### 02. Flat Recommendation System
+
+A real-estate recommendation application that helps users discover properties based on their preferences.
+
+**Focus:** Python · Machine Learning · recommendation systems · Streamlit
+
+[View repository](https://github.com/ritikchauhan2068/Flat-recommdation-system)
+
+### 03. Movie Recommendation
+
+A movie discovery application that provides personalized recommendations based on user preferences.
+
+**Focus:** Python · recommendation systems · Streamlit
+
+[View repository](https://github.com/ritikchauhan2068/Movie-Recommendation)
+
+### 04. Web Summarizer
+
+A web article summarization application that uses LangChain and language models to extract and summarize webpage content.
+
+**Focus:** Python · LangChain · LLMs · BeautifulSoup
+
+[View repository](https://github.com/ritikchauhan2068/Web_Summarizer)
+
+### 05. Vehicle Insurance — MLOps
+
+An ML project demonstrating an end-to-end workflow for a vehicle insurance prediction use case.
+
+**Focus:** Machine Learning · Python · MLOps
+
+[View repository](https://github.com/ritikchauhan2068/Vehicle-Insurance-Domain)
 
 ---
 
-## 🧭 What I do
+## `currently_working_on`
 
-| | |
-|---|---|
-| 🤖 **LLM & RAG applications** | Document-grounded assistants with source citations, built on LangChain, FAISS, and Gemini |
-| 📄 **OCR & document intelligence** | Turning WhatsApp images, invoices, and PDFs into validated, structured data |
-| ⚙️ **Backend & automation** | FastAPI services, Google Sheets / n8n workflows, and Docker deployments on DigitalOcean and Render |
-
-Since early 2025 I've been shipping backends for real clients.
-
----
-
-## 🚀 Featured projects
-
-### 📦 OCR-Powered Order Automation
-Extracts structured order data from WhatsApp images, invoices, receipts, and PDFs, validates it against a schema, and syncs it to Google Sheets.
-
-- ✅ **90%+** field extraction accuracy &nbsp;·&nbsp; ⏱️ saves **2+ hours** of manual entry every day
-- Low-confidence records go to a review queue instead of the spreadsheet
-
-`Python` `FastAPI` `Tesseract OCR` `LangChain` `Google Sheets API` `Docker`
-
-🔗 [Repository](https://github.com/ritikchauhan2068/OCR-For-Business)
-
-<details>
-<summary><b>🔍 How it works</b></summary>
-
-```mermaid
-flowchart LR
-    A[WhatsApp image / PDF / invoice] --> B[Preprocess + OCR]
-    B --> C[Field extraction]
-    C --> D{Schema valid and confident?}
-    D -- yes --> E[Google Sheets sync]
-    D -- no --> F[Manual review queue]
-    F --> E
+```text
+[ IN PROGRESS ]
+├── Exploring Model Context Protocol (MCP)
+├── Learning modern AI developer tools
+├── Building practical LLM-powered applications
+└── Strengthening foundations in ML, DL, NLP & statistics
 ```
 
-</details>
-
----
-
-### 📚 DocuMind: Document-Grounded RAG Assistant
-Ask questions about multi-page PDFs and get answers with **page-level citations**. Document isolation through UUID metadata filtering stops answers from leaking across files.
-
-- FAISS similarity search with multi-turn conversational context
-- Built for transparency: every answer points back to its source page
-
-`Python` `FastAPI` `LangChain` `FAISS` `Google Gemini`
-
-🔗 [Repository](https://github.com/ritikchauhan2068/REPLACE-WITH-DOCUMIND-REPO)
-
-<details>
-<summary><b>🔍 How it works</b></summary>
-
-```mermaid
-flowchart LR
-    A[PDF upload] --> B[Split into page-tagged chunks]
-    B --> C[(FAISS index + UUID metadata)]
-    D[User question] --> E[Filter by document UUID]
-    C --> E
-    E --> F[Top-k similarity search]
-    F --> G[Gemini answers with context]
-    G --> H[Answer + page citations]
-```
-
-</details>
-
----
-
-### 🏠 Property Recommendation Engine
-Content-based recommender over **10,000+ scraped real-estate listings**, using engineered features (price per sq ft, locality tiers, amenity scores) and TF-IDF with cosine similarity.
-
-- 📈 **18%** relevance lift over a keyword-search baseline
-- Served through a low-latency API
-
-`Python` `Scikit-learn` `BeautifulSoup` `NLP` `FastAPI`
-
-🔗 [Repository](https://github.com/ritikchauhan2068/Flat-recommdation-system)
-
----
-
-### 🌐 Client work in production
-
-| Client | What I delivered | Live |
-|---|---|---|
-| **Heritage Almora** (hospitality) | Backend, cloud deployment, SEO, Google Business optimisation | [heritagealmora.com](https://www.heritagealmora.com) |
-| **Auyrco Pharma** (Ayurvedic pharma) | Backend APIs, performance tuning, deployment automation, business workflow automation | [Live site](https://auyrcopharma-5.onrender.com) |
-
----
-
-## 🛠️ Tech stack
-
-**AI / ML**<br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![Tesseract OCR](https://img.shields.io/badge/Tesseract%20OCR-3C3C3C?style=flat-square)
-
-**Backend**<br>
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![REST](https://img.shields.io/badge/REST%20APIs-111111?style=flat-square)
-
-**Automation**<br>
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets%20API-34A853?style=flat-square&logo=googlesheets&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3C3C3C?style=flat-square)
-
-**DevOps & cloud**<br>
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
-
----
-
-## 📈 GitHub activity
+## `github_analytics` — System Status
 
 <div align="center">
 
-<!-- Snake: built daily by .github/workflows/snake.yml and served from the "output" branch -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ritikchauhan2068/ritikchauhan2068/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ritikchauhan2068/ritikchauhan2068/output/github-snake.svg" />
-  <img alt="Snake eating my GitHub contribution graph, one square per day I pushed code" src="https://raw.githubusercontent.com/ritikchauhan2068/ritikchauhan2068/output/github-snake.svg" />
-</picture>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ritikchauhan2068&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=E6EDF3&rank_icon=github" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikchauhan2068&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=E6EDF3" alt="Top languages" />
 
-<br>
-
-<!-- Streak: generated by .github/workflows/streak.yml into assets/streak.svg (no third-party image service) -->
-<img alt="GitHub contribution streak" src="./assets/streak.svg" />
+<img src="https://streak-stats.demolab.com?user=ritikchauhan2068&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" alt="GitHub streak" />
 
 </div>
 
-*Every square is a real day of work: the snake rebuilds itself every 24 hours.*
-
----
-
-## 🤝 Work with me
-
-Running a small business and drowning in manual data entry? I can help with:
-
-- 📲 **Order and invoice capture**: WhatsApp images and PDFs straight into Google Sheets
-- 💬 **Chat with your documents**: a RAG assistant that answers with citations
-- 🔌 **Backends and integrations**: FastAPI, Google APIs, n8n workflows, Dockerised deployments
-
-📧 [ritikchauhan2068@gmail.com](mailto:ritikchauhan2068@gmail.com) · 🌐 [Portfolio](https://voluble-panda-3a9ee0.netlify.app/)
-
----
-
-## 🎯 Currently
-
-- 🔭 Building LLM applications and AI agents on top of my RAG and OCR work
-- 🌱 Going deeper on retrieval evaluation, MLOps, and production deployment
-- 💬 Ask me about: FastAPI, RAG pipelines, OCR workflows, automating business operations
-
-## 🧑‍💼 Background
-
-- **Freelance Backend & Automation Engineer**, Jan 2025 to present
-- **Data Scientist Intern**, InternPe, Feb to Apr 2024: IPL match prediction, 5 classifiers compared and tuned with GridSearchCV
-- **B.Tech CSE**, Chaudhary Charan Singh University (2021-2025)
-- **Generative AI for Data-Driven Business Decision-Making**, IIM Mumbai (MIT × NSDC)
-
----
+## `contribution_matrix` — Activity
 
 <div align="center">
 
-**Hiring for an AI/ML or backend role?** I'd love to talk: [ritikchauhan2068@gmail.com](mailto:ritikchauhan2068@gmail.com)
+![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=ritikchauhan2068&bg_color=0D1117&color=39FF14&line=39FF14&point=FFFFFF&area=true&hide_border=true)
+
+![Contribution snake](https://raw.githubusercontent.com/ritikchauhan2068/ritikchauhan2068/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+## `leetcode_terminal` — Problem Solving
+
+> Add your LeetCode username in the image URL below if it differs from your GitHub username.
+
+<div align="center">
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/ritikchauhan2068?theme=dark&font=Fira%20Code&ext=heatmap)
+
+</div>
+
+## `off_duty` — Coding Soundtrack
+
+[![Coding soundtrack](https://img.shields.io/badge/▶_PLAY-Coding_Mode-111111?style=for-the-badge&logo=youtube&logoColor=39FF14)](https://www.youtube.com/results?search_query=lofi+coding+music+live)
+
+*Focus mode: ON. Distractions: OFF.*
+
+## `connect` — Establish Connection
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=39FF14)](https://www.linkedin.com/in/ritik-chauhan-06b279211/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Follow-111111?style=for-the-badge&logo=kaggle&logoColor=39FF14)](https://www.kaggle.com/ritikchauhan2068)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=firefox&logoColor=39FF14)](https://voluble-panda-3a9ee0.netlify.app/)
+
+**Open to learning, collaboration, and building impactful AI solutions.**
+
+`01001000 01000001 01000011 01001011 00100000 01010100 01001000 01000101 00100000 01000110 01010101 01010100 01010101 01010010 01000101`
 
 </div>
