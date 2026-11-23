@@ -128,9 +128,9 @@ I enjoy turning raw data into meaningful insights and transforming ideas into pr
 <tr>
 <td width="50%" valign="top">
 
-### 03. MACHINE LEARNING MATHS FROM STRACH
+### 03. MACHINE LEARNING MATHS WITH PYTHON CODE 
 
-**Personalized movie discovery.**
+**Maths behind the every algo of machine learning .**
 
 This repository documents my daily exploration of the mathematical intuition behind Machine Learning algorithms and their implementation in Python.
 
