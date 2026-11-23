@@ -128,16 +128,15 @@ I enjoy turning raw data into meaningful insights and transforming ideas into pr
 <tr>
 <td width="50%" valign="top">
 
-### 03. MOVIE RECOMMENDATION
+### 03. MACHINE LEARNING MATHS FROM STRACH
 
 **Personalized movie discovery.**
 
-- Recommends movies based on preferences.
-- Recommendation-system implementation.
+This repository documents my daily exploration of the mathematical intuition behind Machine Learning algorithms and their implementation in Python.
 
-`Python` `Recommendation Systems` `Streamlit`
+`Python` 
 
-[↗ VIEW SOURCE CODE](https://github.com/ritikchauhan2068/Movie-Recommendation)
+[↗ VIEW SOURCE CODE](https://github.com/ritikchauhan2068/Machine_Learning_Algorithm_Maths_Python)
 
 </td>
 <td width="50%" valign="top">
